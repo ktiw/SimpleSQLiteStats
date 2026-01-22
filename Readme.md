@@ -5,3 +5,5 @@
 ## Команды:
 /stats — Посмотреть свою статистику.
 /stats top — Топ-10 игроков сервера.
+# Пример:
+<img width="353" height="215" alt="image" src="https://github.com/user-attachments/assets/6d062252-bd58-4ce0-8254-11001c631355" />
